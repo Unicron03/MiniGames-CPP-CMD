@@ -1,0 +1,40 @@
+Alan Turing est considéré comme le père de l'informatique.
+Vrai
+Les logiciels open source ne permettent pas d'accéder à leur code source.
+Faux
+Le langage machine de Charles Babbage était utilisé pour la programmation informatique dès 1837.
+Vrai
+Tim Berners-Lee a inventé le World Wide Web (WWW).
+Vrai
+Un pare-feu (firewall) est un dispositif de sécurité qui protège un réseau contre les incendies.
+Faux
+La mémoire RAM est non volatile.
+Faux
+Java est largement utilisé pour le développement d'applications iOS.
+Faux
+Un logiciel antivirus est conçu pour créer des virus informatiques.
+Faux
+Bill Gates est le seul fondateur de Microsoft.
+Faux
+HTML signifie "HyperText Markup Language".
+Vrai
+Un serveur web est un type de logiciel antivirus.
+Faux
+Un moteur de recherche est un logiciel de navigation web.
+Faux
+Linux est un système d'exploitation développé par Apple.
+Faux
+Un "cookie" est un petit fichier texte stocké sur l'ordinateur d'un utilisateur pour suivre ses informations de navigation web.
+Vrai
+CPU signifie "Central Processing Unit" (Unité Centrale de Traitement).
+Vrai
+Microsoft Word est un logiciel de retouche photo.
+Faux
+Python est un langage de programmation créé par Linus Torvalds.
+Faux
+Google est connu pour ses produits de recherche sur Internet, y compris son moteur de recherche.
+Vrai
+Bluetooth est une technologie sans fil utilisée pour le transfert de données à longue distance.
+Faux
+Le Wi-Fi est une technologie sans fil couramment utilisée pour les réseaux locaux et Internet.
+Vrai
